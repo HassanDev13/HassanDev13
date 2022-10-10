@@ -5,9 +5,9 @@
 
 
 
-- 🔭 I’m currently working on [Personal project](https://play.google.com/store/apps/details?id=com.hassan13zr.mathsetinfoL1)
+- 🔭 I’m currently working on [Personal Project](https://play.google.com/store/apps/details?id=com.hassan13zr.mathsetinfoL1)
 
-- 🌱 I’m currently learning **Deep stuff in android**
+- 🌱 I’m currently learning **More About Android & Clean Code & Good Architecture**
 
 - 👯 I’m looking to collaborate on **Any kinda Android/Flutter project**
 
