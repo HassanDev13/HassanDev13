@@ -1,25 +1,13 @@
 <h1 align="left">Hi 👋, I'm Hacene</h1>
-<h3 align="left">A CS Student & Mobile developer from Algeria</h3>
+<h3 align="left">Software developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hassandev13&label=Profile%20views&color=0e75b6&style=flat" alt="hassandev13" /> </p>
 
 
 
-- 🔭 I’m currently working on [Personal Project](https://play.google.com/store/apps/details?id=com.hassan13zr.mathsetinfoL1)
-
-- 🌱 I’m currently learning **More About Android & Clean Code & Good Architecture**
-
-- 👯 I’m looking to collaborate on **Any kinda Android/Flutter project**
-
-- 👨‍💻 All of my projects are available at [https://play.google.com/store/apps/dev?id=6213831920829584632](https://play.google.com/store/apps/dev?id=6213831920829584632)
-
-- 💬 Ask me about **Android , Flutter**
-
-- 📫 How to reach me **zerrouk.mohammed.hacene@gmail.com**
-
-- 📄 Know about my experiences [https://www.linkedin.com/in/zerrouk-mohammed-hacene-a58544180/](https://www.linkedin.com/in/zerrouk-mohammed-hacene-a58544180/)
-
-- ⚡ Fun fact **Hot water will turn into ice faster than cold water.**
+I provide services to individuals or companies with programming needs or projects that require maintenance.
+For more information, please browse stackintech.dev
+If you would like to schedule a consultation, feel free to contact me without hesitation.
 
 
 
