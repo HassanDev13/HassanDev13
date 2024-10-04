@@ -5,9 +5,13 @@
 
 
 <p>
-I provide services to individuals or companies with programming needs or projects that require maintenance.
-For more information, please browse stackintech.dev
-If you would like to schedule a consultation, feel free to contact me without hesitation.
+I am a passionate software engineer with over 6 years of experience in software development and project management.
+
+I have a particular interest in volunteering and the motivations that drive people to participate. I am also keen on open-source projects, as I believe they foster collaboration and innovation. One of my goals is to contribute to building the largest tech community in North Africa and the Middle East.
+
+I strive to promote a culture of volunteering and highlight its significant benefits and positive impacts on individuals and communities.
+
+On the technical side, I have transitioned to using #Laravel, which has made my life easier. I also integrate it with #React using the power of #Inertiajs, which has provided me with one of the best developer experiences I’ve had in a while.
 </p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=hassandev13&show_icons=true&theme=dark&locale=en&layout=compact" alt="hassandev13" /></p>
@@ -19,8 +23,7 @@ If you would like to schedule a consultation, feel free to contact me without he
 <h3 align="left">Connect with me:</h3>
 
 <p align="left">
-<a href="https://linkedin.com/in/zerrouk-mohammed-hacene-a58544180" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="zerrouk-mohammed-hacene-a58544180" height="30" width="40" /></a>
-<a href="https://fb.com/hassan.zerrouk.13" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="hassan.zerrouk.13" height="30" width="40" /></a>
-<a href="https://instagram.com/zerrouk_hacene" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="zerrouk_hacene" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/zerroukhacene/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="zerrouk-mohammed-hacene-a58544180" height="30" width="40" /></a>
+
 </p>
 
