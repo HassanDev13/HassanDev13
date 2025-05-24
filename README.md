@@ -11,7 +11,6 @@ I have a particular interest in volunteering and the motivations that drive peop
 
 I strive to promote a culture of volunteering and highlight its significant benefits and positive impacts on individuals and communities.
 
-On the technical side, I have transitioned to using #Laravel, which has made my life easier. I also integrate it with #React using the power of #Inertiajs, which has provided me with one of the best developer experiences I’ve had in a while.
 </p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=hassandev13&show_icons=true&theme=dark&locale=en&layout=compact" alt="hassandev13" /></p>
